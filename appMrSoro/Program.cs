@@ -20,7 +20,7 @@ namespace appMrSoro
 
             if (age < 25 && dureeSur < 2)
             {
-                if(accidentON == 1)
+                if(accidentON == 0)
                 {
                     Console.WriteLine("La couleur de votre carte fidelite est de tarif rouge");
                 }
