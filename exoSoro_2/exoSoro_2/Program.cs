@@ -18,7 +18,7 @@ namespace exoSoro_2
                 Console.WriteLine("L'eau est l'état Liquide");  
             }
 
-            if(temp == 0 )
+            if(temp <= 0 )
             {
                 etatGlace = true;
                 etatLiquide = false;

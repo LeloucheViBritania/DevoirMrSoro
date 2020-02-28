@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Source C#\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj": {}
+    "C:\\Users\\hp\\Desktop\\soro\\DevoirMrSoro\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Source C#\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj": {
+    "C:\\Users\\hp\\Desktop\\soro\\DevoirMrSoro\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Source C#\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\soro\\DevoirMrSoro\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj",
         "projectName": "exoSoro_2",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Source C#\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\soro\\DevoirMrSoro\\exoSoro_2\\exoSoro_2\\exoSoro_2.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Source C#\\exoSoro_2\\exoSoro_2\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\soro\\DevoirMrSoro\\exoSoro_2\\exoSoro_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
