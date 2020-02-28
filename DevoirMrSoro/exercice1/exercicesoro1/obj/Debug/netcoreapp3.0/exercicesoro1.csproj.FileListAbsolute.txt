@@ -1,0 +1,11 @@
+/Users/nan/Projects/exercicesoro1/exercicesoro1/bin/Debug/netcoreapp3.0/exercicesoro1
+/Users/nan/Projects/exercicesoro1/exercicesoro1/bin/Debug/netcoreapp3.0/exercicesoro1.deps.json
+/Users/nan/Projects/exercicesoro1/exercicesoro1/bin/Debug/netcoreapp3.0/exercicesoro1.runtimeconfig.json
+/Users/nan/Projects/exercicesoro1/exercicesoro1/bin/Debug/netcoreapp3.0/exercicesoro1.runtimeconfig.dev.json
+/Users/nan/Projects/exercicesoro1/exercicesoro1/bin/Debug/netcoreapp3.0/exercicesoro1.dll
+/Users/nan/Projects/exercicesoro1/exercicesoro1/bin/Debug/netcoreapp3.0/exercicesoro1.pdb
+/Users/nan/Projects/exercicesoro1/exercicesoro1/obj/Debug/netcoreapp3.0/exercicesoro1.csprojAssemblyReference.cache
+/Users/nan/Projects/exercicesoro1/exercicesoro1/obj/Debug/netcoreapp3.0/exercicesoro1.AssemblyInfoInputs.cache
+/Users/nan/Projects/exercicesoro1/exercicesoro1/obj/Debug/netcoreapp3.0/exercicesoro1.AssemblyInfo.cs
+/Users/nan/Projects/exercicesoro1/exercicesoro1/obj/Debug/netcoreapp3.0/exercicesoro1.dll
+/Users/nan/Projects/exercicesoro1/exercicesoro1/obj/Debug/netcoreapp3.0/exercicesoro1.pdb
