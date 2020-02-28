@@ -1,0 +1,5 @@
+/Users/nan/Projects/appMrSoro/appMrSoro/obj/Debug/appMrSoro.csprojAssemblyReference.cache
+/Users/nan/Projects/appMrSoro/appMrSoro/bin/Debug/appMrSoro.exe
+/Users/nan/Projects/appMrSoro/appMrSoro/bin/Debug/appMrSoro.pdb
+/Users/nan/Projects/appMrSoro/appMrSoro/obj/Debug/appMrSoro.exe
+/Users/nan/Projects/appMrSoro/appMrSoro/obj/Debug/appMrSoro.pdb
