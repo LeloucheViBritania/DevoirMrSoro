@@ -28,7 +28,7 @@ namespace appMrSoro
                     Console.WriteLine("Desole nous ne pouvons pas vous accordez l'assurance dans notre agence");
 
             }
-            if( (age < 25 && dureeSur > 2)|| (age > 25 && accidentON < 2) )
+            else if( (age < 25 && dureeSur > 2)|| (age > 25 && accidentON < 2) )
             {
                 if(accidentON ==1)
                 {
@@ -37,10 +37,7 @@ namespace appMrSoro
                 else
                     Console.WriteLine("La couleur de votre carte fidelite est de tarif rouge");
             }
-            else
-                Console.WriteLine("Desole nous ne pouvons pas vous accordez l'assurance dans notre agence");
-
-            if (age > 25 && dureeSur > 2)
+            else if(age > 25 && dureeSur > 2)
             {
                 if (accidentON == 0)
                 {
@@ -50,16 +47,22 @@ namespace appMrSoro
                 {
                     Console.WriteLine("La couleur de votre carte fidelite est de tarif orange");
                 }
-                else if( accidentON == 2)
+                else if (accidentON == 2)
                 {
                     Console.WriteLine("La couleur de votre carte fidelite est de tarif rouge");
                 }
-                else if(accidentON > 2)
+                else if (accidentON > 2)
                 {
-                    Console.WriteLine("LDesole nous ne pouvons pas vous accordez l'assurance dans notre agence");
+                    Console.WriteLine("Desole nous ne pouvons pas vous accordez l'assurance dans notre agence");
                 }
-            
+
             }
+            else
+            {
+                Console.WriteLine("Desole aucune indication pour les personne de 25! Nous vous reviendrons! \n Veuillez aussi a entrer des nombres svp!");
+            }
+                
+    
            
         }
     }
