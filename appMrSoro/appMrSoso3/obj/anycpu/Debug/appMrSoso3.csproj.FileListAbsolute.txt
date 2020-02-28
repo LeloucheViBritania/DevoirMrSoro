@@ -1,0 +1,4 @@
+/Users/nan/Projects/appMrSoro/DevoirMrSoro/appMrSoro/appMrSoso3/bin/Debug/appMrSoso3.exe
+/Users/nan/Projects/appMrSoro/DevoirMrSoro/appMrSoro/appMrSoso3/bin/Debug/appMrSoso3.pdb
+/Users/nan/Projects/appMrSoro/DevoirMrSoro/appMrSoro/appMrSoso3/obj/anycpu/Debug/appMrSoso3.exe
+/Users/nan/Projects/appMrSoro/DevoirMrSoro/appMrSoro/appMrSoso3/obj/anycpu/Debug/appMrSoso3.pdb

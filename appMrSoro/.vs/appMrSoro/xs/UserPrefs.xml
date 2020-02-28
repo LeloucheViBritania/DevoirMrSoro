@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{7A73C007-F2BB-4E7B-A87B-4075EE111084}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.ItemProperties.appMrSoso3 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appMrSoso3/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="appMrSoso3/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="appMrSoro" expanded="True">
-            <Node name="appMrSoro" expanded="True">
+            <Node name="appMrSoso3" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
