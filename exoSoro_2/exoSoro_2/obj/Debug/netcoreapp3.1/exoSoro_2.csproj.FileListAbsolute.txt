@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\bin\Debug\netcoreapp3.1\exoSoro_2.exe
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\bin\Debug\netcoreapp3.1\exoSoro_2.deps.json
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\bin\Debug\netcoreapp3.1\exoSoro_2.runtimeconfig.json
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\bin\Debug\netcoreapp3.1\exoSoro_2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\bin\Debug\netcoreapp3.1\exoSoro_2.dll
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\bin\Debug\netcoreapp3.1\exoSoro_2.pdb
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\obj\Debug\netcoreapp3.1\exoSoro_2.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\obj\Debug\netcoreapp3.1\exoSoro_2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\obj\Debug\netcoreapp3.1\exoSoro_2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\obj\Debug\netcoreapp3.1\exoSoro_2.dll
+C:\Users\hp\Desktop\Source C#\exoSoro_2\exoSoro_2\obj\Debug\netcoreapp3.1\exoSoro_2.pdb
